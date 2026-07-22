@@ -9,3 +9,6 @@
 
 # 如果要学习如何制作这些模组
 不提供任何学习资料，你需要自行寻找如何制作模组的视频。
+
+# 我个人在Steam创意工坊里的模组（传送门）
+https://steamcommunity.com/sharedfiles/filedetails/?id=3737914638
